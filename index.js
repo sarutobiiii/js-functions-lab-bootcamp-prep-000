@@ -6,5 +6,5 @@ function happyHolidaysTo(string) {
   console.log("Happy holidays, ${name}!")
 }
 
-function
+function happyHolidayTo
 
