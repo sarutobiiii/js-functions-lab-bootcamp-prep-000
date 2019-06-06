@@ -1,8 +1,8 @@
-function happyHoliday() {
+function happyHolidays() {
   console.log("Happy holidays!")
 }
 
-function happyHolidayTo(string) {
+function happyHolidaysTo(string) {
   console.log("Happy holidays, ${name}!")
 }
 
